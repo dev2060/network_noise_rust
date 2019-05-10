@@ -1,0 +1,9 @@
+[package]
+name = "nngenerator1"
+version = "0.1.0"
+authors = ["Vitali Grabovski <vetal2060@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+chrono = "0.4"
